@@ -4,3 +4,4 @@ this is a line added by arnav
 just created another branch
 more lines in b.txt
 third line in b.txt
+Seventh line by Manish
